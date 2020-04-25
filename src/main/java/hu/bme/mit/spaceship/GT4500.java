@@ -89,7 +89,7 @@ public class GT4500 implements SpaceShip {
         firingSuccess= firingSuccessPrimary || firingSuccessSecondary;
         break;
     }
-
+    //change made in branch-B
     return firingSuccess;
   }
 
